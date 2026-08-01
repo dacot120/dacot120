@@ -1,7 +1,5 @@
 # About me
 
-Nada que destacar (por ahora).
-
 Nuevo en GitHub 😀
 
 
